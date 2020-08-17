@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/nounou/static/css/main.34e67cb6.chunk.css",
+    "main.js": "/nounou/static/js/main.e84771f9.chunk.js",
+    "main.js.map": "/nounou/static/js/main.e84771f9.chunk.js.map",
+    "runtime-main.js": "/nounou/static/js/runtime-main.c8e6450a.js",
+    "runtime-main.js.map": "/nounou/static/js/runtime-main.c8e6450a.js.map",
+    "static/js/2.c6272cde.chunk.js": "/nounou/static/js/2.c6272cde.chunk.js",
+    "static/js/2.c6272cde.chunk.js.map": "/nounou/static/js/2.c6272cde.chunk.js.map",
+    "index.html": "/nounou/index.html",
+    "precache-manifest.ba2fa8e41dc8970c9018704c2073041c.js": "/nounou/precache-manifest.ba2fa8e41dc8970c9018704c2073041c.js",
+    "service-worker.js": "/nounou/service-worker.js",
+    "static/css/main.34e67cb6.chunk.css.map": "/nounou/static/css/main.34e67cb6.chunk.css.map",
+    "static/js/2.c6272cde.chunk.js.LICENSE.txt": "/nounou/static/js/2.c6272cde.chunk.js.LICENSE.txt",
+    "static/media/contacts.jpg": "/nounou/static/media/contacts.ce1a3cc9.jpg",
+    "static/media/faq_new.png": "/nounou/static/media/faq_new.f1b3a03c.png",
+    "static/media/App.css": "/nounou/static/media/img-7.122df8f7.jpg",
+    "static/media/iphone_new.png": "/nounou/static/media/iphone_new.7e397da9.png",
+    "static/media/logo_nav_new.png": "/nounou/static/media/logo_nav_new.82a7a676.png",
+    "static/media/s10_new.png": "/nounou/static/media/s10_new.563369f4.png",
+    "static/media/satisfaction.svg": "/nounou/static/media/satisfaction.04061427.svg",
+    "static/media/shield.svg": "/nounou/static/media/shield.c241f97d.svg",
+    "static/media/stars.svg": "/nounou/static/media/stars.8ebeeff3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8e6450a.js",
+    "static/js/2.c6272cde.chunk.js",
+    "static/css/main.34e67cb6.chunk.css",
+    "static/js/main.e84771f9.chunk.js"
+  ]
+}
